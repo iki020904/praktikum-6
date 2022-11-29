@@ -1,8 +1,8 @@
-# tugas ke-10
 
-Nama : Yoga Pratama
 
-NIM : 312210042
+Nama : Muhammad Rifqi aziz
+
+NIM : 312210111
 
 Kelas : TI.22.A1
 
@@ -10,7 +10,7 @@ Kelas : TI.22.A1
 | No | Description | Link |
 |-----|------|-----|
 |1|Latihan|[Click Here](#latihan)|
-|2|Praktikum -6|[Click Here](#praktikum-6)|
+|2|Praktikum-6|[Click Here](#praktikum-6)|
 |3|Flowchart Praktikum-6|[Click Here](#flowchart-praktikum-6)|
 
 ## Latihan
